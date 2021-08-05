@@ -1,2 +1,3 @@
 # PPO_continuous-_actionspace
-![alt text](lunar_lander _improved.png.png "Lunar Lander")
+<img src="/lunar_lander _improved.png
+.png" alt="A look at the app"/>
